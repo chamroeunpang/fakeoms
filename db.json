@@ -30,7 +30,7 @@
 			"brand_url": "https://www.armanibeauty.com",
 			"company_telephone_no": "010011012",
 			
-			"OrderLineItems":[
+			"product_list":[
 				{
 					"shipping_date": "2017/12/26",			
 					"product_name": "Mascara 168",					
@@ -72,7 +72,7 @@
 			"brand_url": "https://www.armanibeauty.com",
 			"company_telephone_no": "010011012",
 			
-			"OrderLineItems":[
+			"product_list":[
 				{
 					"shipping_date": "2017/12/26",			
 					"product_name": "Mascara 666",					
@@ -114,7 +114,7 @@
 			"brand_url": "https://www.armanibeauty.com",
 			"company_telephone_no": "010011012",
 			
-			"OrderLineItems":[
+			"product_list":[
 				{
 					"shipping_date": "2017/12/26",			
 					"product_name": "Mascara 444",					
