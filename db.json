@@ -1,24 +1,46 @@
 {
-  "orders": [
-    {
-      "id": "order1",
-      "order_no": "order1",
-      "customer": "chamroeun pang"
-    },
-    {
-      "id": "order2",
-      "order_no": "order2",
-      "customer": "Dara"
-    },
-    {
-      "id": "order3",
-      "order_no": "order3",
-      "customer": "Hello"
-    },
-    {
-      "id": "order4",
-      "order_no": "order4",
-      "customer": "Hi man"
-    }
-  ]
+	"orders":[
+		{
+			"id": "00000227",
+			"re-issue_date": "2017/12/28",
+			"bill_no": "Inv#000123",
+			"order_no": "00000227",
+			"purchase_date": "2017/12/25",
+			"payment_method": "Credit Card",
+			"customers_lastname": "PANG",
+			"customers_firstname": "Chamroeun",
+			"customers_postcode": "85555",
+			"customers_state": "PP",
+			"customers_city": "Phnom Penh",
+			"customers_street_address": "St. 271",
+			"customers_suburb": "168",								
+			"delivery_lastname": "PANG",
+			"delivery_firstname": "Chamroeun",
+			"delivery_postcode": "85555",
+			"delivery_state": "PP",
+			"delivery_city": "Phnom Penh",
+			"delivery_street_address": "St. 271",
+			"delivery_suburb": "168",
+			
+			"total_product_price": 75,
+			"order_carriage": 0,
+			"total_order_amount": 75,
+			"company_name": "RCI",
+			"brand_name": "Armani",
+			"brand_url": "https://www.armanibeauty.com",
+			"company_telephone_no": "010011012",
+			
+			"OrderLineItems":[
+				{
+					"shipping_date": "2017/12/26",			
+					"product_name": "Mascara",					
+					"product_quantity": 1,
+					"product_detail_amount": 75,
+					"product_discount": 0,
+					"purchase_amount": 75,
+					"remark": "Test Product"
+				}
+			]
+		}
+	]
 }
