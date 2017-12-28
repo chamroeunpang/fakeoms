@@ -1,10 +1,10 @@
 {
 	"orders":[
 		{
-			"id": "00000227",
+			"id": "00000224",
 			"re-issue_date": "2017/12/28",
 			"bill_no": "Inv#000123",
-			"order_no": "00000227",
+			"order_no": "00000224",
 			"purchase_date": "2017/12/25",
 			"payment_method": "Credit Card",
 			"customers_lastname": "PANG",
@@ -33,7 +33,91 @@
 			"OrderLineItems":[
 				{
 					"shipping_date": "2017/12/26",			
-					"product_name": "Mascara",					
+					"product_name": "Mascara 168",					
+					"product_quantity": 1,
+					"product_detail_amount": 75,
+					"product_discount": 0,
+					"purchase_amount": 75,
+					"remark": "Test Product"
+				}
+			]
+		},
+		{
+			"id": "00000226",
+			"re-issue_date": "2017/12/28",
+			"bill_no": "Inv#000123",
+			"order_no": "00000226",
+			"purchase_date": "2017/12/25",
+			"payment_method": "Credit Card",
+			"customers_lastname": "Doung",
+			"customers_firstname": "Dara",
+			"customers_postcode": "85555",
+			"customers_state": "PP",
+			"customers_city": "Phnom Penh",
+			"customers_street_address": "St. 273",
+			"customers_suburb": "168",								
+			"delivery_lastname": "Doung",
+			"delivery_firstname": "Dara",
+			"delivery_postcode": "85555",
+			"delivery_state": "PP",
+			"delivery_city": "Phnom Penh",
+			"delivery_street_address": "St. 273",
+			"delivery_suburb": "168",
+			
+			"total_product_price": 75,
+			"order_carriage": 0,
+			"total_order_amount": 75,
+			"company_name": "RCI",
+			"brand_name": "Armani",
+			"brand_url": "https://www.armanibeauty.com",
+			"company_telephone_no": "010011012",
+			
+			"OrderLineItems":[
+				{
+					"shipping_date": "2017/12/26",			
+					"product_name": "Mascara 666",					
+					"product_quantity": 1,
+					"product_detail_amount": 75,
+					"product_discount": 0,
+					"purchase_amount": 75,
+					"remark": "Test Product"
+				}
+			]
+		},
+		{
+			"id": "00000227",
+			"re-issue_date": "2017/12/28",
+			"bill_no": "Inv#000123",
+			"order_no": "00000227",
+			"purchase_date": "2017/12/25",
+			"payment_method": "Credit Card",
+			"customers_lastname": "Sok",
+			"customers_firstname": "Puthiphorn",
+			"customers_postcode": "85555",
+			"customers_state": "PP",
+			"customers_city": "Phnom Penh",
+			"customers_street_address": "St. 278",
+			"customers_suburb": "168",								
+			"delivery_lastname": "Sok",
+			"delivery_firstname": "Puthiphorn",
+			"delivery_postcode": "85555",
+			"delivery_state": "PP",
+			"delivery_city": "Phnom Penh",
+			"delivery_street_address": "St. 278",
+			"delivery_suburb": "168",
+			
+			"total_product_price": 75,
+			"order_carriage": 0,
+			"total_order_amount": 75,
+			"company_name": "RCI",
+			"brand_name": "Armani",
+			"brand_url": "https://www.armanibeauty.com",
+			"company_telephone_no": "010011012",
+			
+			"OrderLineItems":[
+				{
+					"shipping_date": "2017/12/26",			
+					"product_name": "Mascara 444",					
 					"product_quantity": 1,
 					"product_detail_amount": 75,
 					"product_discount": 0,
